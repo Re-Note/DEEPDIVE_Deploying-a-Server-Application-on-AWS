@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # 프로젝트 경로
-PROJECT_ROOT="/home/ec2-user/spring-docker-aws-deploy-java17-live"
+PROJECT_ROOT="/home/ec2-user/DEEPDIVE_Deploying-a-Server-Application-on-AWS"
 JAR_FILE="$PROJECT_ROOT/spring-webapp.jar"
 
 # 각종 로그 경로
